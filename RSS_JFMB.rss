@@ -29,9 +29,38 @@
         <item>
             <author>a21mebejo@iesgrancapitan.org (Jose Mejias)</author>
             <description>Los gatos y los portátiles</description>
-            <link>https://www.google.es</link>
+            <link>https://www.eluniversal.com.mx/ciencia-y-salud/ciencia/por-que-los-gatos-les-gustan-las-computadoras</link>
             <title>Gatos/portatiles</title>
             <pubDate>Sun, 13 Feb 2022 18:00:00 +0200</pubDate>
+            <enclosure url="https://github.com/jfmeji/RSS/blob/main/cat-gc921fc925_640.jpg"
+            length="64916" type="image/jpg" />
+        </item>
+        <item>
+            <author>a21mebejo@iesgrancapitan.org (Jose Mejias)</author>
+            <description>Gatos atraidos por los portátiles</description>
+            <link>https://www.lavanguardia.com/vivo/mascotas/20201229/6142025/gato-ordenador.html</link>
+            <title>Gatos/portatiles</title>
+            <pubDate>Sun, 13 Feb 2022 18:00:00 +0200</pubDate>
+            <enclosure url="https://github.com/jfmeji/RSS/blob/main/cat-gc921fc925_640.jpg"
+            length="64916" type="image/jpg" />
+        </item>
+        <item>
+            <author>a21mebejo@iesgrancapitan.org (Jose Mejias)</author>
+            <description>Los gatos muerden los cables</description>
+            <link>https://www.expertoanimal.com/consejos-para-evitar-que-mi-gato-muerda-los-cables-22460.html</link>
+            <title>Gatos/portatiles</title>
+            <pubDate>Sun, 13 Feb 2022 18:00:00 +0200</pubDate>
+            <enclosure url="https://github.com/jfmeji/RSS/blob/main/cat-gc921fc925_640.jpg"
+            length="64916" type="image/jpg" />
+        </item>
+        <item>
+            <author>a21mebejo@iesgrancapitan.org (Jose Mejias)</author>
+            <description>Los gatos y los portátiles</description>
+            <link>https://www.google.com</link>
+            <title>Gatos/portatiles</title>
+            <pubDate>Sun, 13 Feb 2022 18:00:00 +0200</pubDate>
+            <enclosure url="https://github.com/jfmeji/RSS/blob/main/cat-gc921fc925_640.jpg"
+            length="64916" type="image/jpg" />
         </item>
     </channel>
 </rss>
