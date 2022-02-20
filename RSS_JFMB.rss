@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="2.0">
+    <channel>
+        <title>Practica RSS</title>
+        <link>https://github.com/jfmeji/RSS</link>
+        <description>Ejemplo de practica con RSS</description>
+        <category>Mascotas/Informatica</category>
+        <copyright>Jose Mejias - CC BYSA</copyright>
+        <language>es-es</language>
+        <lastBuildDate>Sun, 13 Feb 2022 17:00:00 +0200</lastBuildDate>
+        <webMaster>a21mebejo@grancapitan.org (Jose Mejias)</webMaster>
+        <skipDays>
+            <day>Saturday</day>
+            <day>Sunday</day>
+        </skipDays>
+        <skipHours>
+            <hour>0</hour>
+            <hour>1</hour>
+            <hour>2</hour>
+            <hour>3</hour>
+            <hour>4</hour>
+            <hour>5</hour>
+        </skipHours>
+        <image>
+            <url>https://github.com/jfmeji/RSS/blob/main/cat-gc921fc925_640.jpg</url>
+            <title>Practica RSS</title>
+            <link>https://github.com/jfmeji/RSS</link>
+        </image>
+        <item>
+            <author>a21mebejo@iesgrancapitan.org (Jose Mejias)</author>
+            <description>Los gatos y los portatiles</description>
+            <link>https://www.lavanguardia.com/vivo/mascotas/20201229/6142025/gato-ordenador.html</link>
+            <title>Gatos/portatiles</title>
+            <pubDate>Sun, 13 Feb 2022 18:00:00 +0200</pubDate>
+            <enclosure url="https://www.lavanguardia.com/uploads/2020/12/22/5fe1e0b9e8f6b.jpeg" length="1082740" type="image/jpg"/>
+        </item>
+        <item>
+            <author>a21mebejo@iesgrancapitan.org (Jose Mejias)</author>
+            <description>Los gatos y los portatiles</description>
+            <link>https://ecodiario.eleconomista.es/viralplus/noticias/10470423/04/20/Por-que-los-gatos-aman-sentarse-encima-de-los-teclados.html</link>
+            <title>Gatos/portatiles</title>
+            <pubDate>Sun, 13 Feb 2022 18:00:00 +0200</pubDate>
+            <enclosure url="https://s03.s3c.es/imag/_v0/770x420/a/f/8/Gato-sobre-ordenador-iStock.jpg" length="55285" type="image/jpg"/>
+        </item>
+        <item>
+            <author>a21mebejo@iesgrancapitan.org (Jose Mejias)</author>
+            <description>Los gatos y los portatiles</description>
+            <link>https://www.portatilmovil.com/blog/51_portatiles-y-gatos.html#</link>
+            <title>Gatos/portatiles</title>
+            <pubDate>Sun, 13 Feb 2022 18:00:00 +0200</pubDate>
+            <enclosure url="https://www.portatilmovil.com/upload/stblog/1/51/118/51118large.jpg" length="16049" type="image/jpg"/>
+        </item>
+        <item>
+            <author>a21mebejo@iesgrancapitan.org (Jose Mejias)</author>
+            <description>Los gatos y los portatiles</description>
+            <link>https://www.boredpanda.es/juguete-gato-portatil-rascador-suckuk</link>
+            <title>Gatos/portatiles</title>
+            <pubDate>Sun, 13 Feb 2022 18:00:00 +0200</pubDate>
+            <enclosure url="https://www.boredpanda.es/blog/wp-content/uploads/2015/08/juguete-gato-portatil-rascador-suckuk-2.jpg" length="79414" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
